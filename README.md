@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 # Classy-Weather
  origin/main
+
+ # Live at : https://loubna213.github.io/Classy-Weather/
